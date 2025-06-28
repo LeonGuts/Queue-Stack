@@ -5,6 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/MyQueue/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MyStack/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tests/Queue Test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tests/Stack Test/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
